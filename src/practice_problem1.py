@@ -5,8 +5,8 @@ This problem provides practice at:
   ***  IMPLEMENTING CLASSES.  ***
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Joshua Bressman.
+"""  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
 # Students:
@@ -56,7 +56,7 @@ def main():
 
 class Box(object):
     """
-    A Box has:
+
         -- CONTENTS, which is a string, and
         -- VOLUME, which is a non-negative integer.
     The length of the Box's CONTENTS can never exceed the Box's VOLUME.
